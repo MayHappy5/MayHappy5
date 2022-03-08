@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @MayHappy5
+- 👀 I’m interested in Python, SQL, Data Science...
+- 🌱 I’m currently learning Data Science and Business analytics also Data Engineering...
+- 💞️ I’m looking to collaborate on coding assignments, coding projects ...
+
+<!---
+MayHappy5/MayHappy5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
